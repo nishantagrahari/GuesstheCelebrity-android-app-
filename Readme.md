@@ -1,10 +1,7 @@
 <h1 align="center">Guess the Celebrity</h1>
 
-
 <p align="center">
-  
-<img src="https://img.shields.io/badge/AndroidStudio-v4.0.1-brightgreen">
-
+  <img src="https://img.shields.io/badge/AndroidStudio-v4.0.1-brightgreen">
 </p>
 
 <img src="./images/1.png" width="50%" height="20%">
