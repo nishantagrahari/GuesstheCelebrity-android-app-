@@ -8,7 +8,7 @@
 
 </p>
 
-<img src="./images/1.png" width="100%" height="25%">
+<img src="./images/1.png" width="50%" height="25%">
 
 ## Description
  A simple app which loads images with 4 different options and we need to select the correct option from it.
